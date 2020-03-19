@@ -2182,3 +2182,28 @@ section {
   text-decoration: none;
   background: #ecf0f1;
 }
+@media only screen and (max-width: 768px){
+.pb-5, .py-5 {
+    padding-top: 27rem!important;
+}
+}
+@media only screen and (max-width: 768px){
+.pb-5a, .py-5 {
+    padding-top: 1rem!important;
+}
+}
+
+.pb-5a, .py-5 {
+    padding-bottom: 3rem!important;
+}
+@media only screen and (max-width: 768px){
+.py-5b, .py-5 {
+    padding-top: 77rem!important;
+	padding-bottom: 3rem!important;
+}
+}
+.py-5b, .py-5 {
+ 
+	padding-bottom: 2rem!important;
+}
+
